@@ -3,4 +3,4 @@
 Telecommunications Intern | Network Automation with Python | API Development & Testing | Aspiring Cybersecurity Specialist
 </h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tiago%20Lopes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedinlopes-1a6bb3344/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tiago%20Lopes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-lopes-1a6bb3344/)
