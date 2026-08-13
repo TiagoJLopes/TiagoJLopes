@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github-sted.vercel.app/api?username=TiagoJLopes
+  <a href="https://github.com/stats-organization/ats-extended
+    extended.vercel.app/api?username=TiagoJLopes" />
+  </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Tiago Lopes</h1>
