@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=TiagoJLopes)](https://github.com/stats-organization/github-stats-extended)
+<h1 align="center> [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=TiagoJLopes)](https://github.com/stats-organization/github-stats-extended)</h1>
 
 <h1 align="center">Hi 👋, I'm Tiago Lopes</h1>
 <h3 align="center">
