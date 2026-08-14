@@ -20,11 +20,10 @@ Telecommunications Intern | Network Automation with Python | API Development & T
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-
 <h2 align="center">  📊 GitHub Stats: </h2>
 
-![](https://github-readme-stats.shion.dev/api?username=TiagoJLopes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=TiagoJLopes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=TiagoJLopes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=TiagoJLopes&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com/?user=TiagoJLopes&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TiagoJLopes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="305">
+</p>
