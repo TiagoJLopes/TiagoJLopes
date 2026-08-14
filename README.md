@@ -4,7 +4,6 @@
 Telecommunications Intern | Network Automation with Python | API Development & Testing | Aspiring Cybersecurity Specialist
 </h3>
 
-<p align="center"> <a href="https://www.linkedin.com/in/tiago-lopes-1a6bb3344/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
 <h2 align="center"> 🚀Technologies & Tools⚙️ </h2>
 
@@ -27,3 +26,8 @@ Telecommunications Intern | Network Automation with Python | API Development & T
   <img src="https://github-readme-stats.shion.dev/api?username=TiagoJLopes&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />  </br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TiagoJLopes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="305">
 </p>
+
+<h2 align="center"> Conect With Me </h2>
+
+
+<p align="center"> <a href="https://www.linkedin.com/in/tiago-lopes-1a6bb3344/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
