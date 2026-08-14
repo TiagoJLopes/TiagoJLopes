@@ -23,7 +23,7 @@ Telecommunications Intern | Network Automation with Python | API Development & T
 <h2 align="center">  📊 GitHub Stats: </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=TiagoJLopes&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /> 
-  <img src="https://streak-stats.demolab.com/?user=TiagoJLopes&theme=dark&hide_border=true" /> </br>
+  <img src="https://streak-stats.demolab.com/?user=TiagoJLopes&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=TiagoJLopes&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />  </br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TiagoJLopes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="305">
 </p>
