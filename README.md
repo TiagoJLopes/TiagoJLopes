@@ -1,7 +1,7 @@
 <h1 align="center">Hey There <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> , I'm Tiago Lopes</h1>
 
 <h3 align="center">
-Telecommunications Intern | Network Automation with Python | API Development & Testing | Aspiring Cybersecurity Specialist
+Bachelor's Degree in Computer Engineering (In Progress) | Student in Systems Analysis and Development | Telecommunications Intern | Network Automation with Python | API Development & Testing | Aspiring Cybersecurity Specialist
 </h3>
 
 
